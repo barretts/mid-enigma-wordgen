@@ -1,3 +1,9 @@
+bigramModel.json
+trigramModel.json
+trigramModelRestricted.json
+preprocessedDictionary.json
+preprocessedDictionaryRestricted.json
+
 # Logs
 logs
 *.log

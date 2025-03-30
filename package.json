@@ -1,0 +1,21 @@
+{
+  "name": "wordgen",
+  "version": "1.0.0",
+  "main": "build.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/adm-zip": "^0.5.7",
+    "@types/node": "^22.13.14",
+    "adm-zip": "^0.5.16",
+    "an-array-of-english-words": "^2.0.0",
+    "fast-levenshtein": "^3.0.0",
+    "fastest-levenshtein": "^1.0.16",
+    "random-word-generator": "^0.9.9",
+    "serialize-javascript": "^6.0.2"
+  }
+}
